@@ -1,0 +1,3 @@
+module GiftShop {
+	exports giftshop;
+}
